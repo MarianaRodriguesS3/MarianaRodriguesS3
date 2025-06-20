@@ -1,18 +1,20 @@
 ## Hi there 👋
 
-
 **MarianaRodriguesS3/MarianaRodriguesS3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here’s a little about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔭 I’m currently working on personal projects to practice and improve my programming skills.
+
+🌱 I’m constantly learning and exploring new technologies such as React, Node.js, Git, and RESTful APIs.
+
+💬 Feel free to ask me about HTML, CSS, and JavaScript.
+
+📫 How to reach me: [linkedin.com/in/mariana-rodrigu3s](https://www.linkedin.com/in/mariana-rodrigu3s)
+
+😄 Pronouns: she/her
+
+⚡ Fun fact: Besides coding, I’m also passionate about music — I play the guitar and keyboard! 🎶
 
   <img align="center" alt="Fernando-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Fernando-Cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
