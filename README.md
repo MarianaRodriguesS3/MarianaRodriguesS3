@@ -16,7 +16,7 @@ Here’s a little about me:
 
 ⚡ Fun fact: Besides coding, I’m also passionate about music — I play the guitar and keyboard! 🎶
 
-<div align="center">
+<div align="left">
   <img align="center" alt="Fernando-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Fernando-Cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="Fernando-OpenGL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" />
